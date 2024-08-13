@@ -272,5 +272,8 @@
   "betterboiler:boiler_valve",
   "betterboiler:boiler_vent",
   "betterboiler:boiler_pump",
-  "betterboiler:boiler_pump"
+  "betterboiler:boiler_pump",
+  "minecraft:campfire",
+  "sophisticatedstorage:limited_barrel_1",
+  "sophisticatedstorage:iron_chest"
 ]

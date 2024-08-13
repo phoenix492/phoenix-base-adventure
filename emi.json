@@ -1,12 +1,18 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:rail",
     "item:sophisticatedbackpacks:backpack",
     "item:sophisticatedbackpacks:copper_backpack",
     "item:minecraft:oak_trapdoor",
     "item:capsule:capsulemarker"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "sophisticatedstorage:oak_limited_barrel_1",
+    "minecraft:oak_slab",
+    "sophisticatedstorage:iron_chest",
+    "sophisticatedstorage:oak_chest"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},
