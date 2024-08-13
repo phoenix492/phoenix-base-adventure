@@ -11,7 +11,7 @@
 	#Those structures nbt files can be placed in the folder defined at starterTemplatesPath below.
 	#Possible values : "all", "random", or "none".
 	#Default value: "random"
-	starterMode = "none"
+	starterMode = "all"
 	#Each structure in this folder will be given to the player as standard reusable capsule on game start.
 	#Empty the folder or the value to disable starter capsules.
 	#Default value: "config/capsule/starters"
@@ -59,7 +59,7 @@
 	#Duration in ticks for an undeployed capsule to remain activated (preview displayed) when right clicking. 20 ticks = 1 second.
 	#Default value: 120.
 	#Range: > 0
-	previewDisplayDuration = 120
+	previewDisplayDuration = 200
 	#Number of upgrades an empty capsule can get to improve capacity. If <= 0, the capsule won't be able to upgrade.
 	#Range: > 0
 	capsuleUpgradesLimit = 10
