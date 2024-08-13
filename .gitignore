@@ -5,3 +5,8 @@ coremods/
 mods/
 saves/
 screenshots/
+logs/
+local/
+usercache.json
+usernamecache.json
+icon.png
