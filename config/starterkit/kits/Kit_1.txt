@@ -9,7 +9,7 @@
 3 : '{Count:1b,id:"explorerscompass:explorerscompass",tag:{}}',
 4 : '{Count:1b,id:"naturescompass:naturescompass",tag:{}}',
 5 : '{Count:1b,id:"bagofyurting:bag_of_yurting",tag:{radius:5,yurtdata:{}}}',
-6 : '{Count:1b,id:"capsule:capsule",tag:{canRotate:1b,color:16777215,display:{color:4342338},isReward:1b,label:"adventurers_yurt",oneUse:1b,size:11,state:5,structureName:"config/capsule/rewards/adventurers_yurt"}}',
+6 : '{Count:1b,id:"capsule:capsule",tag:{author:"Phoenix492",canRotate:0b,color:8991415,display:{color:3289650},isReward:1b,label:"Adventurer‵s Yurt",oneUse:1b,size:11,state:5,structureName:"config/capsule/rewards/adventurers_yurt"}}',
 7 : '{Count:1b,id:"sophisticatedbackpacks:backpack",tag:{borderColor:2367274,clothColor:9915328,contentsUuid:[I;-403426383,-544912891,-1163486507,-1743958137],inventorySlots:27,renderInfo:{upgradeItems:[{Count:1b,id:"minecraft:air",tag:{Damage:0}}]},upgradeSlots:1}}',
 8 : '{Count:8b,id:"minecraft:bread"}',
 9 : '{Count:1b,id:"capsule:capsule",tag:{color:16777215,display:{color:8072841},size:5,state:0}}',
