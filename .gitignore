@@ -12,3 +12,5 @@ usercache.json
 usernamecache.json
 icon.png
 emi.json
+config/oculus.properties
+crash-reports/
