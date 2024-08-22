@@ -52,3 +52,4 @@ key.curios.open.desc
 iris.keybind.reload
 iris.keybind.toggleShaders
 iris.keybind.shaderPackSelection
+justzoom.keybinds.keybind.zoom
