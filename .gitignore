@@ -14,5 +14,6 @@ usernamecache.json
 icon.png
 emi.json
 config/oculus.properties
+config/koncrete/
 crash-reports/
 options.txt
