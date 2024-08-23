@@ -1,0 +1,23 @@
+{
+	"groups": [
+		"food_poisoning"
+	],
+	"effects": [
+		{
+			"status_effects": [
+				{
+					"name": "minecraft:hunger",
+					"power": 2
+				}
+			],
+			"conditions": [
+				{
+					"groups": ["food_poisoning"],
+					"match": "all",
+					"above": 0.8,
+					"below": 1.0
+				}
+			]
+		}
+	]
+}
