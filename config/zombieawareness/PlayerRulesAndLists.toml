@@ -6,7 +6,7 @@
 	#Uses list of people to have senses spawned for
 	whiteListUsedSenses = false
 	#List of people to have omniscient targetting effect
-	whitelistOmniscientTargettedPlayers = "Corosus, SomeDude"
+	whitelistOmniscientTargettedPlayers = ""
 	#List of people to have senses spawned for
-	whitelistSenses = "Corosus, SomeDude"
+	whitelistSenses = ""
 
