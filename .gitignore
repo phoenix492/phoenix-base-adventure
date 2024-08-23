@@ -16,4 +16,5 @@ emi.json
 config/oculus.properties
 config/konkrete/
 crash-reports/
+data/
 options.txt
