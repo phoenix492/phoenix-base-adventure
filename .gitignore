@@ -17,3 +17,4 @@ config/oculus.properties
 config/konkrete/
 crash-reports/
 options.txt
+rhino.local.properties
